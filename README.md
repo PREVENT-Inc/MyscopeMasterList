@@ -9,9 +9,10 @@ PREVENTは、名古屋大学医学部発ベンチャーです。アカデミッ�
 
 ## 公開マスター
 Myscope内で用いている各種マスターのレセプトコード対応リストを公開致します。
-* 対象疾患リスト
-* 対象薬剤リスト
-* Mystar対象外リスト
+* Mystar対象疾患リスト
+* Mystar対象薬剤リスト
+* Mystar対象外判定用リスト
+* 糖尿病性腎症重症化予防プログラム判定用リスト
 
 レセプトコードは以下リストから引用させていただいております。
 https://www.ssk.or.jp/seikyushiharai/tensuhyo/kihonmasta/index.html
