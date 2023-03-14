@@ -8,11 +8,12 @@ PREVENTは、名古屋大学医学部発ベンチャーです。アカデミッ�
 レセプト並びに健康診断データから現状分析および対象者抽出、効果検証を実施する株式会社PREVENTのデータ解析事業です。
 
 ## 公開マスター
-Myscope内で用いている各種マスターのレセプトコード対応リストを公開致します。
-* Mystar対象疾患リスト
-* Mystar対象薬剤リスト
-* Mystar対象外判定用リスト
-* 糖尿病性腎症重症化予防プログラム判定用リスト
+### Myscope内で用いている各種マスターのレセプトコード対応リストを公開いたします。
+* Mystar対象疾患リスト（Mystar_tg_disease）
+* Mystar対象薬剤リスト（Mystar_tg_medicine）
+* Mystar対象外判定用リスト（Out_of_scope）
+* 糖尿病性腎症重症化予防プログラム判定用リスト（program_for_diabetic_nephropathy）
+### 共同研究で用いた各種マスター（論文公表済み）を公開いたします。
+* [Identifying high-risk population of depression: association between metabolic syndrome and depression using a health checkup and claims database](https://www.nature.com/articles/s41598-022-22048-9)（nagoya-u/medical_conditions_and_depression）
 
-レセプトコードは以下リストから引用させていただいております。
-https://www.ssk.or.jp/seikyushiharai/tensuhyo/kihonmasta/index.html
+レセプトコードは[こちら](https://www.ssk.or.jp/seikyushiharai/tensuhyo/kihonmasta/index.html)から引用させていただいております。
