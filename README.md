@@ -12,7 +12,7 @@ PREVENTは、名古屋大学医学部発ベンチャーです。アカデミッ�
 * Mystar対象疾患リスト（Mystar_tg_disease）
 * Mystar対象薬剤リスト（Mystar_tg_medicine）
 * Mystar対象外判定用リスト（Out_of_scope）
-* 糖尿病性腎症重症化予防プログラム判定用リスト（program_for_diabetic_nephropathy）
+
 ### 共同研究で用いた各種マスター（論文公表済み）を公開いたします。
 * [Identifying high-risk population of depression: association between metabolic syndrome and depression using a health checkup and claims database](https://www.nature.com/articles/s41598-022-22048-9)（nagoya-u/medical_conditions_and_depression）
 
