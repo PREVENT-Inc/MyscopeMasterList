@@ -15,5 +15,6 @@ PREVENTは、名古屋大学医学部発ベンチャーです。アカデミッ�
 
 ### 共同研究で用いた各種マスター（論文公表済み）を公開いたします。
 * [Identifying high-risk population of depression: association between metabolic syndrome and depression using a health checkup and claims database](https://www.nature.com/articles/s41598-022-22048-9)（nagoya-u/medical_conditions_and_depression）
+* [Factors associated with awareness of chronic kidney disease, and impact of awareness on renal prognosis](https://link.springer.com/article/10.1007/s10157-024-02605-4)（nagoya-u/awareness_of_chronic_kidney_disease）
 
 レセプトコードは[こちら](https://www.ssk.or.jp/seikyushiharai/tensuhyo/kihonmasta/index.html)から引用させていただいております。
